@@ -13,9 +13,9 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, PHP, HTML5, CSS
-- **Frameworks:** React, Node.js, Laravel, Codigniter
-- **Tools:** Git, Docker, VS Code, GitHub Actions
+- **Languages:** PHP, JavaScript, TypeScript, Python, HTML5, CSS
+- **Frameworks:** Laravel, Codigniter, React, Node.js
+- **Tools:** Git, VS Code, GitHub Actions, Docker
 
 ## 🌱 Current Learning Goals
 
