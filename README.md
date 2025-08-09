@@ -13,7 +13,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, PHP, C++
+- **Languages:** Python, JavaScript, TypeScript, PHP, HTML5, CSS
 - **Frameworks:** React, Node.js, Laravel, Codigniter
 - **Tools:** Git, Docker, VS Code, GitHub Actions
 
