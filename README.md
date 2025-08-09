@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 - 💻 I love working with various programming languages and frameworks.
