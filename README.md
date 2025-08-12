@@ -7,6 +7,7 @@
 
 ## 🚀 About Me
 
+- 💻 I love pushing.
 - 💻 I love working with various programming languages and frameworks.
 - 🎯 Interested in solving real-world problems with code.
 - 🤝 Always open to collaboration and feedback.
