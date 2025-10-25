@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Laravel Pull Stack Developer!
+# 👋 Laravel Full Stack Developer!
 
 </div>
 
