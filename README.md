@@ -1,5 +1,6 @@
-## 👋 Hi, I’m Muhammad Sheraz
 <div align="center">
+## 👋 Hi, I’m Muhammad Sheraz
+
 ### 🚀 Senior Laravel Full Stack Developer | Team Lead | SaaS & AI Solutions
 
 💼 **8+ Years Experience** | 🧠 Problem Solver | 👨‍💻 Team Lead
@@ -14,6 +15,11 @@ I’m a **Senior Full Stack Laravel Developer & Team Lead** with **8+ years of p
 
 I’ve worked with startups, enterprises, and international clients across **finance, ecommerce, blockchain, MLM, healthcare, travel, fitness, and education**.
 
+- 💻 I love pushing.
+- 💻 I love working with various programming languages and frameworks.
+- 🎯 Interested in solving real-world problems with code.
+- 🤝 Always open to collaboration and feedback.
+
 **What I do best:**
 
 * Architecting **complex Laravel applications**
@@ -22,7 +28,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 * Integrating **blockchain, payment gateways & third-party APIs**
 * Building **AI-powered solutions** using Python
 
----
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -60,29 +66,10 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ---
 
-## 🏆 Key Experience
+## 🌱 Current Learning Goals
 
-### 🔹 **Team Lead – Full Stack Laravel Developer**
-
-**Electra (Abu Dhabi)** | *Oct 2023 – Present*
-
-* Leading SaaS, CRM, POS & Accounting systems
-* Architecture design & team management
-
-### 🔹 **Team Lead – Laravel Developer**
-
-**Safir Global DMCC (Dubai)** | *Oct 2021 – Jul 2023*
-
-* MLM Referral System
-* Blockchain & Crypto Applications
-* SaaS Platforms
-
-### 🔹 **Laravel Developer**
-
-**Bridges Tech (Pakistan)** | *Dec 2019 – Jul 2021*
-
-* HRM, Payroll, School & Property Management Systems
-* Restaurant Ordering & POS
+- Exploring cloud technologies and DevOps
+- Improving my skills in machine learning and AI
 
 ---
 
