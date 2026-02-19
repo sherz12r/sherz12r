@@ -27,6 +27,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sherz12r)
 - [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sherz12r@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/923001234567?text=Hello%20Sheraz%2C%20I%20visited%20your%20github.)
 
 ---
 
