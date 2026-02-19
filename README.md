@@ -91,7 +91,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 * 🔗 **TezMall (Ecommerce):** [http://bazar.com/](http://bazar.ae/)
 * 🔗 **Bazarv (Marketplace):** [http://bazarv.com/](http://bazarv.com/)
 * 🔗 **Digital Assets Store:** [http://superfunx.com/](http://superfunx.com/)
-* 🔗 **Fast Track Tourism (Travel Company Website):** [https://fasttracktourism.com/](https://fasttracktourism.com/)
+* 🔗 **Fast Track Tourism (Travel Company Website With Booking and Payment Option):** [https://fasttracktourism.com/](https://fasttracktourism.com/)
 * 🔗 **Barber Appointment Booking With Payment Option and Backend Operations:** [http://mabooks.biz/](http://mabooks.biz/)
 * 🔗 **Job Posting Portal:** [http://leedforce.com/](http://zip.ba/)
 
