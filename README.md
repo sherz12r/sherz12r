@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m Muhammad Sheraz
-
+<div align="center">
 ### 🚀 Senior Laravel Full Stack Developer | Team Lead | SaaS & AI Solutions
 
-<div align="center">
-
-💼 **8+ Years Experience** | 🌍 UAE (Open to Relocation) | 🧠 Problem Solver | 👨‍💻 Team Lead
+💼 **8+ Years Experience** | 🧠 Problem Solver | 👨‍💻 Team Lead
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ## 🧠 About Me
 
-I’m a **Senior Full Stack Laravel Developer & Team Lead** with **8+ years of professional experience** (4+ years in UAE), building **scalable SaaS platforms, CRMs, POS systems, blockchain apps, and AI-powered solutions**.
+I’m a **Senior Full Stack Laravel Developer & Team Lead** with **8+ years of professional experience**, building **scalable SaaS platforms, CRMs, POS systems, blockchain apps, and AI-powered solutions**.
 
 I’ve worked with startups, enterprises, and international clients across **finance, ecommerce, blockchain, MLM, healthcare, travel, fitness, and education**.
 
@@ -92,7 +90,6 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ### 🧩 SaaS / CRM / POS
 
-* 🔗 **ERP CRM:** [http://erpgo.com/](http://erpgo.com/)
 * 🔗 **Salon POS & CRM:** [http://mysalon.ae/](http://mysalon.ae/)
 * 🔗 **Restaurant POS:** [http://restaurant-pos.leedforce.com/](http://restaurant-pos.leedforce.com/)
 * 🔗 **Car Garage System:** [http://geraj.leedforce.com/](http://geraj.leedforce.com/)
@@ -100,7 +97,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ### 🛒 Ecommerce & Marketplaces
 
-* 🔗 **TezMall (Ecommerce):** [http://tezmall.com/](http://tezmall.com/)
+* 🔗 **TezMall (Ecommerce):** [http://bazar.com/](http://bazar.ae/)
 * 🔗 **Bazarv (Marketplace):** [http://bazarv.com/](http://bazarv.com/)
 * 🔗 **Digital Assets Store:** [http://superfunx.com/](http://superfunx.com/)
 
@@ -112,8 +109,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ### ✈️ Travel & Business
 
-* 🔗 **B2B Travel Platform (Node.js):** [http://b2b.fasttrackrourism.com/](http://b2b.fasttrackrourism.com/)
-* 🔗 **Travel Company:** [https://pinastourism.ae/](https://pinastourism.ae/)
+* 🔗 **B2B Travel Platform (Node.js):** [http://fasttrackrourism.com/](http://fasttrackrourism.com/)
 
 ---
 
@@ -122,7 +118,6 @@ I’ve worked with startups, enterprises, and international clients across **fin
 * 🐟 **Fish Identification AI Model**
   *Detects fish species, age & size using trained ML models*
 * 🍎 **Calories Calculator & Food Suggestion System**
-  🔗 [http://calibalance.website/](http://calibalance.website/)
 
 ---
 
@@ -134,12 +129,6 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ---
 
-## ⚡ Performance Optimization
-
-* 🚀 **fayettevillepact:** 44% → 73%
-* 🚀 **onedrinkwater:** 55% → 81%
-
----
 
 ## 🎓 Education
 
