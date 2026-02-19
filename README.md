@@ -80,15 +80,20 @@ I’ve worked with startups, enterprises, and international clients across **fin
 ### 🧩 SaaS / CRM / POS
 
 * 🔗 **Salon POS & CRM:** [http://mysalon.ae/](http://mysalon.ae/)
+* 🔗 **Back Offoce Operations & CRM:** [http://emmartax.com/](http://emmartax.com/)
 * 🔗 **Restaurant POS:** [http://restaurant-pos.leedforce.com/](http://restaurant-pos.leedforce.com/)
 * 🔗 **Car Garage System:** [http://geraj.leedforce.com/](http://geraj.leedforce.com/)
 * 🔗 **POS SaaS Platform:** [http://leedforce.com/](http://leedforce.com/)
+
 
 ### 🛒 Ecommerce & Marketplaces
 
 * 🔗 **TezMall (Ecommerce):** [http://bazar.com/](http://bazar.ae/)
 * 🔗 **Bazarv (Marketplace):** [http://bazarv.com/](http://bazarv.com/)
 * 🔗 **Digital Assets Store:** [http://superfunx.com/](http://superfunx.com/)
+* 🔗 **Fast Track Tourism (Travel Company Website):** [https://fasttracktourism.com/](https://fasttracktourism.com/)
+* 🔗 **Barber Appointment Booking With Payment Option and Backend Operations:** [http://mabooks.biz/](http://mabooks.biz/)
+* 🔗 **Job Posting Portal:** [http://leedforce.com/](http://zip.ba/)
 
 ### 🧬 Blockchain & Crypto
 
@@ -98,7 +103,21 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ### ✈️ Travel & Business
 
-* 🔗 **B2B Travel Platform (Node.js):** [http://fasttrackrourism.com/](http://fasttrackrourism.com/)
+* 🔗 **B2B Travel Platform (Node.js):** [http://fasttracktourism.com/](http://b2b.fasttracktourism.com/)
+
+
+### ✈️ Business Portfolios
+
+* 🔗 **Insurance Company Portfolio:** [http://defaziolife.com/](http://defaziolife.com/)
+* 🔗 **Auto Garage Portfolio:** [http://faveautogarage.ae/](http://faveautogarage.ae/)
+* 🔗 **Website Development Company Portfolio:** [http://webdeveloperz.net/](http://webdeveloperz.net/)
+* 🔗 **ISO Certification Website:** [http://miqats.com/](http://miqats.com/)
+* 🔗 **Qasar Al Home (Decor Company Website):** [https://qasaralhome.ae/](https://qasaralhome.ae/)
+* 🔗 **Barisal Group (Aluminium Company Website):** [http://barisalgroup.com/](http://barisalgroup.com/)
+* 🔗 **Business Solutions (Business Portfolio Website):** [https://businesssolutions.ae/](https://businesssolutions.ae/)
+* 🔗 **Naz Beauty Salon (Salon Website & POS):** [https://nazbeautysalon.com/](https://nazbeautysalon.com/)
+* 🔗 **Corp Vantage (Accounting Company Website):** [https://corpvantage.ae/](https://corpvantage.ae/)
+
 
 ---
 
