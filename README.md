@@ -156,9 +156,8 @@ COMSATS Institute of Information Technology (2012 – 2016)
 ## 📫 Let’s Connect
 
 * 📧 **Email:** [sherz12r@gmail.com](mailto:sherz12r@gmail.com)
-* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/923001234567)
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/971527861045)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/sherz12r](https://www.linkedin.com/in/sherz12r)
-* 🐙 **GitHub:** [https://github.com/sherz12r](https://github.com/sherz12r)
 
 ---
 
