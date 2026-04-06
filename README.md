@@ -87,9 +87,18 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 <p>
   <a href="https://garage.leedforce.com" target="_blank" rel="noopener noreferrer">
-    🔗 Open Live Demo Car Garage System
+    🔗 Open Live Demo Car Garage Management System
   </a>
 </p>
+
+## 🌐 Screenshots
+
+<p>
+  <a href="https://github.com/sherz12r/garage_management_system" rel="noopener noreferrer">
+    🔗 Open Screenshots Car Garage Management System
+  </a>
+</p>
+
 
 ## 🔐 Demo Credentials
 
