@@ -103,7 +103,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ### 🛒 Ecommerce & Marketplaces
 
-* 🔗 **TezMall (Ecommerce):** [http://bazar.com/](http://bazar.ae/)
+* 🔗 **TezMall (Ecommerce):** [http://bazar.ae/](http://bazar.ae/)
 * 🔗 **Bazarv (Marketplace):** [http://bazarv.com/](http://bazarv.com/)
 * 🔗 **Digital Assets Store:** [http://superfunx.com/](http://superfunx.com/)
 * 🔗 **Fast Track Tourism (Travel Company Website With Booking and Payment Option):** [https://fasttracktourism.com/](https://fasttracktourism.com/)
