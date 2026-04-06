@@ -83,7 +83,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 * 🔗 **Back Offoce Operations & CRM:** [http://emmartax.com/](http://emmartax.com/)
 * 🔗 **Restaurant POS:** [http://restaurant-pos.leedforce.com/](http://restaurant-pos.leedforce.com/)
 * 🔗 **Car Garage System:** [http://geraj.leedforce.com/](http://geraj.leedforce.com/)
-## 🌐 Live Demo
+## 🌐 Live Demo Garage Management System
 
 <p>
   <a href="https://garage.leedforce.com" target="_blank" rel="noopener noreferrer">
@@ -91,7 +91,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
   </a>
 </p>
 
-## 🌐 Screenshots
+## 🌐 Screenshots Garage Management System
 
 <p>
   <a href="https://github.com/sherz12r/garage_management_system" rel="noopener noreferrer">
