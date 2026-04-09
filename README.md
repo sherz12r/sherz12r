@@ -88,7 +88,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
   </a>
 </p>
 
-## 🌐 Screenshots Garage Management System
+## 🌐 Screenshots Salon Management System
 
 <p>
   <a href="https://github.com/sherz12r/salon_management_system" rel="noopener noreferrer">
