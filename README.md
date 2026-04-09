@@ -80,6 +80,31 @@ I’ve worked with startups, enterprises, and international clients across **fin
 ### 🧩 SaaS / CRM / POS
 
 * 🔗 **Salon POS & CRM:** [http://mysalon.ae/](http://mysalon.ae/)
+## 🌐 Live Demo Salon Management System
+
+<p>
+  <a href="http://mysalon.ae" target="_blank" rel="noopener noreferrer">
+    🔗 Open Live Demo Salon Management System
+  </a>
+</p>
+
+## 🌐 Screenshots Garage Management System
+
+<p>
+  <a href="https://github.com/sherz12r/salon_management_system" rel="noopener noreferrer">
+    🔗 Open Screenshots Salon Management System
+  </a>
+</p>
+
+
+## 🔐 Demo Credentials Salon Management System
+
+| Field    | Value              |
+|----------|--------------------|
+| Email    | demo@mysalon.ae    |
+| Password | sssssss            |
+
+
 * 🔗 **Back Offoce Operations & CRM:** [http://emmartax.com/](http://emmartax.com/)
 * 🔗 **Restaurant POS:** [http://restaurant-pos.leedforce.com/](http://restaurant-pos.leedforce.com/)
 * 🔗 **Car Garage System:** [http://geraj.leedforce.com/](http://geraj.leedforce.com/)
@@ -100,7 +125,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 </p>
 
 
-## 🔐 Demo Credentials
+## 🔐 Demo Credentials Garage Management System
 
 | Field    | Value              |
 |----------|--------------------|
