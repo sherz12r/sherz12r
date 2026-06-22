@@ -38,18 +38,29 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 * PHP, Laravel, CodeIgniter
 * Python (AI / ML scripts)
+* REST APIs & Webhooks
+* Selenium (Browser Automation)
+* BeautifulSoup & Requests (Web Scraping)
+* Pandas (Data Processing)
+* Machine Learning (scikit-learn / TensorFlow basics)
+* APIs & Webhooks
+* Supabase / PostgreSQL
+* Task Scheduling (cron / Python schedulers)
+* Supabase / PostgreSQL / MySQL / MongoDB / SQL Server
 * Node.js
 
 ### 🔹 Frontend
 
 * JavaScript, jQuery, AJAX
-* React (bug fixing & integrations)
+* React (bug fixing, integrations & Inhancements)
 * HTML5, CSS3, Bootstrap
 
 ### 🔹 Databases
 
 * MySQL, MongoDB
 * SQL Server
+* Microsoft SQL Server
+* PostgreSQL (Supabase)
 
 ### 🔹 DevOps & Tools
 
@@ -64,8 +75,8 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 * Payment Gateways
 * Blockchain (ETH, BNB, TRON)
+* Third-party API Integration
 * Zoho & Odoo CRM
-* Third-party APIs
 
 ---
 
@@ -171,28 +182,9 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ---
 
-# 🚀 Python Automation & AI Projects Suite
-
-A collection of automation, AI, scraping, and productivity tools built using Python.  
-This repository includes real-world automation systems such as visa processing automation, job application bots, AI models, and web scraping engines.
+# 🚀 Python Automation & AI Projects
 
 ---
-
-## 📌 Overview
-
-This project suite demonstrates expertise in:
-
-- Python Automation (Selenium, Requests)
-- Web Scraping (multi-site scraping systems)
-- AI/ML Applications
-- Workflow Automation
-- API Integration
-- Backend Data Handling (PostgreSQL / Supabase)
-- Task Scheduling & Bots
-
----
-
-## 🧩 Projects Included
 
 ### 🛂 VFS Global Visa Automation System
 Automates visa application workflows similar to VFS Global portals.
@@ -281,20 +273,6 @@ Health-focused recommendation system.
 
 ---
 
-## ⚙️ Tech Stack
-
-- Python 🐍
-- Selenium
-- BeautifulSoup
-- Requests
-- Pandas
-- Machine Learning (scikit-learn / TensorFlow basics)
-- APIs & Webhooks
-- Supabase / PostgreSQL
-- Task Scheduling (cron / Python schedulers)
-
-
----
 
 ## 📱 Android Applications
 
