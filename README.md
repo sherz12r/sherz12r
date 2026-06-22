@@ -37,8 +37,8 @@ I’ve worked with startups, enterprises, and international clients across **fin
 ### 🔹 Backend
 
 * PHP, Laravel, CodeIgniter
-* Node.js
 * Python (AI / ML scripts)
+* Node.js
 
 ### 🔹 Frontend
 
@@ -54,6 +54,7 @@ I’ve worked with startups, enterprises, and international clients across **fin
 ### 🔹 DevOps & Tools
 
 * Git, GitHub, Bitbucket
+* Supabase, PostgreSQL
 * VPS & Server Management
 * Docker, GitHub Actions
 * Mail Server Setup
@@ -170,11 +171,128 @@ I’ve worked with startups, enterprises, and international clients across **fin
 
 ---
 
-## 🤖 AI & Python Projects
+# 🚀 Python Automation & AI Projects Suite
 
-* 🐟 **Fish Identification AI Model**
-  *Detects fish species, age & size using trained ML models*
-* 🍎 **Calories Calculator & Food Suggestion System**
+A collection of automation, AI, scraping, and productivity tools built using Python.  
+This repository includes real-world automation systems such as visa processing automation, job application bots, AI models, and web scraping engines.
+
+---
+
+## 📌 Overview
+
+This project suite demonstrates expertise in:
+
+- Python Automation (Selenium, Requests)
+- Web Scraping (multi-site scraping systems)
+- AI/ML Applications
+- Workflow Automation
+- API Integration
+- Backend Data Handling (PostgreSQL / Supabase)
+- Task Scheduling & Bots
+
+---
+
+## 🧩 Projects Included
+
+### 🛂 VFS Global Visa Automation System
+Automates visa application workflows similar to VFS Global portals.
+
+**Features:**
+- Auto form filling
+- Document handling automation
+- Appointment slot detection
+- Reduced manual processing time
+
+---
+
+### 📊 Visa Status Checker & Tracker
+Tracks visa application status from government portals.
+
+**Features:**
+- Automated status scraping
+- Scheduled monitoring
+- Historical tracking logs
+- Error handling & retry logic
+
+---
+
+### 📩 Smart Client Reminder & Follow-up System
+Automated client communication system.
+
+**Features:**
+- Scheduled reminders
+- Auto follow-up messages
+- Status-based notifications
+- Workflow automation for clients
+
+---
+
+### 🌐 Multi-Website Scraper Engine
+Scalable scraping system for multiple websites.
+
+**Features:**
+- Handles dynamic websites
+- Multi-site data extraction
+- Clean structured output
+- Anti-bot handling techniques
+
+---
+
+### 💼 Auto Job Application Bot
+Automates job applications across portals.
+
+**Features:**
+- Auto form filling
+- Resume upload automation
+- Job filtering logic
+- Application tracking system
+
+---
+
+### 📝 AI Content Generator & Auto Publisher
+Generates and publishes content automatically.
+
+**Features:**
+- AI-generated articles/posts
+- Multi-platform publishing
+- Scheduled content posting
+- API-based automation
+
+---
+
+### 🐟 Fish Identification AI Model
+AI model to detect fish species, size, and age.
+
+**Features:**
+- Image classification model
+- Species detection
+- Size & age estimation
+- ML pipeline in Python
+
+---
+
+### 🍎 Calories Calculator & Food Suggestion System
+Health-focused recommendation system.
+
+**Features:**
+- Calorie tracking
+- Personalized meal suggestions
+- Nutrition dataset integration
+
+---
+
+## ⚙️ Tech Stack
+
+- Python 🐍
+- Selenium
+- BeautifulSoup
+- Requests
+- Pandas
+- Machine Learning (scikit-learn / TensorFlow basics)
+- APIs & Webhooks
+- Supabase / PostgreSQL
+- Task Scheduling (cron / Python schedulers)
+
 
 ---
 
