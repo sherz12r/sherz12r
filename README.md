@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Muhammad Sheraz Haider
 
-### 🚀 Senior Laravel Full Stack Developer | Team Lead | SaaS & AI Solutions
+### 🚀 Automation Engineer | Senior Laravel Full Stack Developer | Team Lead | SaaS
 
 💼 **8+ Years Experience** | 🧠 Problem Solver | 👨‍💻 Team Lead
 
